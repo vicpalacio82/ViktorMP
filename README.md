@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViktorMP
-- 👀 I’m interested in .NET
-- 🌱 I’m currently learning Blazor
+- 👀 I’m interested in Java and JavaScript world
+- 🌱 I’m currently live in Buenos Aires 
 
 
 <!---
