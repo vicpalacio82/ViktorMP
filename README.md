@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ViktorMP
-- 👀 I’m interested in .NET and JavaScript world
+- 👀 I’m interested in Java technologies
 - 🌱 I’m currently live in Buenos Aires 
 
 
