@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Víctor!
-- 👀 In love with .NET technologies and Azure.
-- 🌱 I’m currently live in Buenos Aires. 
+- 💖 In love with .NET technologies and Azure.
+- 🏡 I’m currently live in Buenos Aires. 
 
 
 <!---
