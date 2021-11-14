@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ViktorMP
-- 👀 I’m interested in Java and .NET technologies  
-- 🌱 I’m currently live in Buenos Aires 
+- 👋 Hi, I’m Víctor!
+- 👀 In love with .NET technologies and Azure.
+- 🌱 I’m currently live in Buenos Aires. 
 
 
 <!---
