@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Víctor!
-- 💖 In love with .NET technologies and Azure.
+- 👋 Hi, I'm Victor, Java Developer!
+- 💖 Interested in Scala / Apache Spark and Big Data technologies in Azure cloud ecosystem.
 - 🏡 I’m currently live in Buenos Aires. 
 
 
