@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Victor, Java Developer!
-- 💖 Interested in Scala / Apache Spark and Big Data technologies in Azure cloud ecosystem.
+- 👋 Hi, I'm Victor! Java / Spring Developer at your service.
+- 💖 Interested in Scala / Apache Spark. 
 - 🏡 I’m currently live in Buenos Aires. 
 
 
