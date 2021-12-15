@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Victor! .NET && Spark Developer at your service.
-- 💖 Interested in Azure. 
+- 👋 Hi, I'm Victor! Software Developer at your service.
+- 💖 Interested in distributed systems and cloud computing.
 - 🏡 I’m currently live in Buenos Aires. 
 
 
