@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Victor! Java / Spring Developer at your service.
-- 💖 Interested in Scala / Apache Spark. 
+- 👋 Hi, I'm Victor! .NET && Spark Developer at your service.
+- 💖 Interested in Azure. 
 - 🏡 I’m currently live in Buenos Aires. 
 
 
