@@ -1,6 +1,6 @@
-- 👋 Hi, I'm Victor! .NET Software Developer at your service.
-- 💖 Interested in distributed systems, enterprise apps and Azure cloud.
-- 🏡 I’m currently live in Buenos Aires, but developing software for the entire galaxy!!! 
+- 👋 Hi, I'm Victor! Software Developer at your service.
+- 💖 Interested in distributed systems, enterprise apps and cloud.
+- 🏡 I’m currently live in Buenos Aires, but developing software for the entire galaxy!
 
 
 <!---
