@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Victor! Software Developer at your service.
+- 👋 Hi, I'm Victor! .NET Developer at your service.
 - 💖 Interested in distributed systems, enterprise apps and cloud.
 - 🏡 I’m currently live in Buenos Aires, but developing software for the entire galaxy!
 
