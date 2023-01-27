@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Victor! Backend Developer at your service.
-- 💖 Interested in distributed systems, enterprise apps and cloud.
+- 👋 Hi, I'm Victor! .NET Developer at your service.
+- 💖 Interested in distributed systems and cloud.
 - 🏡 I’m currently live in Buenos Aires, but developing software for the entire galaxy!
 
 
