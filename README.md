@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Victor! .NET and C# backend developer, cloud enthusiast.
-- 💖 Interested in distributed systems and cloud.
+- 👋 Hi, I'm Victor! cloud enthusiast.
+- 💖 Interested in DevOps and Cloud.
 - 🏡 I’m currently live in Buenos Aires, but developing software for the entire galaxy!
 
 
