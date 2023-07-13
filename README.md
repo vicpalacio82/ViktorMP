@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Victor! cloud enthusiast.
-- 💖 Interested in DevOps and Cloud.
+- 💖 Interested in DevOps and Cloud Computing.
 - 🏡 I’m currently live in Buenos Aires, but developing software for the entire galaxy!
 
 
