@@ -1,6 +1,6 @@
-- 👋 Hi, I'm Victor, welcome!
+- 👋 Hi, I'm Victor, welcome to my repo!
 - 💖 Interested in DevOps and Cloud Computing.
-- 🏡 I’m currently live in Buenos Aires, but developing software for the entire galaxy!
+
 
 
 <!---
