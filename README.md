@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Victor, welcome to my repo!
-- 💖 Interested in cloud engineering, DevSecOps and cibersecurity.
+- 💖 Interested in Cloud Engineering, DevSecOps and Cibersecurity.
 
 
 
