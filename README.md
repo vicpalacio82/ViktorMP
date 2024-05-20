@@ -1,5 +1,5 @@
 - 👋 Hello visitor, welcome to my repo! 
-- 💖 I love cloud engineering, DevOps, data engineering, and AI.  
+- 💖 I love data engineering, cloud engineering, DevOps, and AI.  
 
 
 
