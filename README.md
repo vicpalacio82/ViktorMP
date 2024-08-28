@@ -1,5 +1,5 @@
 - 👋 Hello visitor, welcome to my repo! 
-- 💖 I love Cloud & Data Engineering.  
+- 💖 I love Cloud Engineering.  
 
 
 
